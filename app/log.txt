@@ -1,0 +1,44 @@
+2023-07-27 13:49:34,956 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.162:5000
+2023-07-27 13:49:34,956 - INFO - [33mPress CTRL+C to quit[0m
+2023-07-27 13:49:37,468 - INFO - 127.0.0.1 - - [27/Jul/2023 13:49:37] "[33mGET /search?keyword=Suresh HTTP/1.1[0m" 404 -
+2023-07-27 14:21:34,474 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.162:5000
+2023-07-27 14:21:34,474 - INFO - [33mPress CTRL+C to quit[0m
+2023-07-27 14:21:37,109 - INFO - 127.0.0.1 - - [27/Jul/2023 14:21:37] "[33mGET /search?keyword=Suresh HTTP/1.1[0m" 404 -
+2023-07-27 14:21:41,724 - INFO - 127.0.0.1 - - [27/Jul/2023 14:21:41] "GET /search?keyword=semiconductor HTTP/1.1" 200 -
+2023-07-27 14:27:55,831 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.162:5000
+2023-07-27 14:27:55,831 - INFO - [33mPress CTRL+C to quit[0m
+2023-07-27 14:28:05,800 - INFO - 127.0.0.1 - - [27/Jul/2023 14:28:05] "[33mGET /search?keyword=26550656 HTTP/1.1[0m" 404 -
+2023-07-27 14:28:24,050 - INFO - 127.0.0.1 - - [27/Jul/2023 14:28:24] "[33mGET /search?keyword=143645573 HTTP/1.1[0m" 404 -
+2023-07-27 14:29:35,388 - INFO - 127.0.0.1 - - [27/Jul/2023 14:29:35] "[33mGET /search?keyword=68794916 HTTP/1.1[0m" 404 -
+2023-07-27 14:29:54,995 - INFO - 127.0.0.1 - - [27/Jul/2023 14:29:54] "[33mGET /search?keyword=143280786 HTTP/1.1[0m" 404 -
+2023-07-27 14:30:00,448 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.162:5000
+2023-07-27 14:30:00,449 - INFO - [33mPress CTRL+C to quit[0m
+2023-07-27 14:31:10,412 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.162:5000
+2023-07-27 14:31:10,412 - INFO - [33mPress CTRL+C to quit[0m
+2023-07-27 14:33:48,305 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.162:5000
+2023-07-27 14:33:48,305 - INFO - [33mPress CTRL+C to quit[0m
+2023-07-27 14:33:51,444 - INFO - 127.0.0.1 - - [27/Jul/2023 14:33:51] "GET /search?keyword=143280786 HTTP/1.1" 200 -
+2023-07-27 15:22:45,218 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.162:5000
+2023-07-27 15:22:45,218 - INFO - [33mPress CTRL+C to quit[0m
+2023-07-27 15:22:48,840 - INFO - 127.0.0.1 - - [27/Jul/2023 15:22:48] "GET /search?keyword=143280786 HTTP/1.1" 200 -
